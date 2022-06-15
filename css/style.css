@@ -21,3 +21,17 @@ nav link {
   padding: 14px 16px;
   text-decoration: none;
 }
+body {
+  background-color: pink;
+}
+#nav-bar {
+text-align: right;
+word-spacing: 10px;
+}
+.nav-link {
+  font-size: 24px;
+  color: black: 
+}
+span {
+  font-size: 24px;
+}
