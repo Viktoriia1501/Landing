@@ -1,14 +1,13 @@
-body {
-  background-color: pink;
+body {  background-color: pink;
+  display: flex 10px;
 }
 #nav-bar {
-text-align: right;
 word-spacing: 10px;
-display: flex;
+text-align: right;
 }
 .nav-link {
   font-size: 24px;
-  color: black: 
+  color: black; 
 }
 span {
   font-size: 24px;
